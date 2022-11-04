@@ -1,6 +1,7 @@
 ### Hi! 👋
 
-My name is Edson Junior Acordi and I'm an Electrical Engineer.
+My name is $\text{\textcolor{blue}{Edson Junior Acordi}}$ and I'm an $\text{\color[RGB]{204,112,0}{Electrical Engineer}}$. ⚡
+
 
 <!--
 **edson-acordi/edson-acordi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
