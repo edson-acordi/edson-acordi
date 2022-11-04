@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! 👋
+
+My name is Edson Junior Acordi and I'm an Electrical Engineer.
 
 <!--
 **edson-acordi/edson-acordi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+![Profile views](https://gpvc.arturio.dev/edson-acordi)
