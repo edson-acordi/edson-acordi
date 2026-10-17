@@ -5,7 +5,7 @@ It's a pleasure to have you here.
 My name is $\text{\textcolor{blue}{Edson Junior Acordi}}$ and I'm an $\text{\color[RGB]{204,112,0}{Electrical Engineer}}$ ⚡  
 I'm a professor at the Instituto Federal do Paraná (IFPR).
 
-<img src=https://img.shields.io/badge/FOSS-8A2BE2> <img src=https://img.shields.io/badge/OSHW-green> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) & ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) Enthusiast  
+<img src=https://img.shields.io/badge/FOSS-8A2BE2> <img src=https://img.shields.io/badge/OSHW-green> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) <img src=https://img.shields.io/badge/&-000000> ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) <img src=https://img.shields.io/badge/Enthusiast-000000>  
 
 
 
